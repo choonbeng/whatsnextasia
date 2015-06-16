@@ -1,0 +1,13 @@
+<template name="posts_weekly">
+  <div class="grid">
+    {{#each weeks}}
+      {{> before_week}}
+      <h2 class="posts-week-heading">{{formatDate date "dddd, MMMM Do YYYY"}}</h2>
+
+      {{> posts_list_controller context}}
+
+      {{> after_week}}
+    {{/each}}
+    <a class="load-more-weeks-button grid-module" href="{{loadMoreWeeksUrl}}"><span>{{_ "load_next_weeks"}}</span></a>
+  </div>
+</template>
