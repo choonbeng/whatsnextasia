@@ -102,7 +102,8 @@ oauth@1.1.6
 oauth1@1.1.5
 oauth2@1.1.5
 observe-sequence@1.0.7
-okgrow:iron-router-autoscroll@0.0.9
+okgrow:iron-router-autoscroll@0.0.11
+okgrow:router-autoscroll@0.1.0
 ongoworks:speakingurl@5.0.1
 ordered-dict@1.0.4
 package-version-parser@3.0.4
