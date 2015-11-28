@@ -159,7 +159,6 @@ telescope:search@0.25.5
 telescope:settings@0.25.5
 telescope:share@0.25.5
 telescope:singleday@0.25.5
-telescope:singleweek@0.20.5
 telescope:subscribe-to-posts@0.25.5
 telescope:tagline-banner@0.25.5
 telescope:tags@0.25.5
@@ -167,7 +166,6 @@ telescope:theme-base@0.25.5
 telescope:theme-hubble@0.25.5
 telescope:update-prompt@0.25.5
 telescope:users@0.25.5
-telescope:weekly@0.20.5
 templating@1.1.5
 templating-tools@1.0.0
 tmeasday:publish-counts@0.7.2

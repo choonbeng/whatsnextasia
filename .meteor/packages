@@ -39,5 +39,3 @@ telescope:update-prompt
 
 # custom
 jeremy:telescope-plugin-hero
-telescope:singleweek
-telescope:weekly
